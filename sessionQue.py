@@ -1,4 +1,3 @@
 
 sessionDic = {}
 
-def createSession()
