@@ -1,0 +1,4 @@
+
+sessionDic = {}
+
+def createSession()
